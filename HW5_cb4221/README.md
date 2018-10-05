@@ -23,6 +23,6 @@ Paper 1 Main Results
 
 Paper 2 Main Results
 
-![main plot](paper2_figure1.png)
-![main plot](paper2_figure2.png)
-![main plot](paper2_figure3.png)
+![main plot](paper2_figure1.PNG)
+![main plot](paper2_figure2.PNG)
+![main plot](paper2_figure3.PNG)
