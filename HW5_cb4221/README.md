@@ -12,3 +12,5 @@ variables, and plot of results from the paper.
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**|
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Chi square	| 1, Gender | categorical, dichotomous | 1, Color choice | categorical, nominal | 1, age | continuous (could also be categorical) | 	Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress? ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326#pone-0163326-g002) |
+  |||||||||
