@@ -13,7 +13,7 @@ these test methods. See table below for description of type and number of variab
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi square	| 1, Gender | categorical, dichotomous | 1, Color choice | categorical, nominal | no control variables | Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress? ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326#pone-0163326-g002) |
   |||||||||
-Multiple regression	| 14, perceived and objective neighborhood attributes | categorical, nominal | 1, Happiness | categorical, ordinal | no control variables | Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.05 | [Contextual correlates of happiness in European adults ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190387) |
+Multiple regression	| 14, perceived and objective neighborhood attributes | categorical, nominal | 1, Happiness | categorical, ordinal | no control variables | Do different neighborhood attributes effect happiness | Attributes on happiness = 0 | 0.05 | [Contextual correlates of happiness in European adults ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0190387) |
   |||||||||
 
 Paper 1 Main Results
