@@ -1,10 +1,9 @@
 Homework 5
 
-1. Examine a peer's hypothesis set-up.
+1. Examine a peer's research plan and provide feedback on hypothesis framework and type of test to use. 
 
-2. Pick two test types (I picked chi square and correlation) and find papers that use
-this test methods. See table below for description of type of variables used, number of
-variables, and plot of results from the paper.
+2. Pick two test types (I picked chi square and path analysis) and find papers that use
+these test methods. See table below for description of type and number of variables used and plots summarizing each paper's results.
 
 3.
 
@@ -14,8 +13,12 @@ variables, and plot of results from the paper.
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 Chi square	| 1, Gender | categorical, dichotomous | 1, Color choice | categorical, nominal | 1, age | continuous (could also be categorical) | Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress? ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326#pone-0163326-g002) |
   |||||||||
-Chi square	| 1, Gender | categorical, dichotomous | 1, Color choice | categorical, nominal | 1, age | continuous (could also be categorical) | Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress? ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326#pone-0163326-g002) |
+Path analysis	| 1, Gender | categorical, dichotomous | 1, Color choice | categorical, nominal | 1, age | continuous (could also be categorical) | Does gender affect color choice in treatment of visual stress | Effect of gender <=0 | 0.04 | [Does Gender Influence Colour Choice in the Treatment of Visual Stress? ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326#pone-0163326-g002) |
   |||||||||
+
+Paper 1 Main Results
 
 ![main plot](paper1_figure1.png)
 ![main plot](paper1_figure2.png)
+
+Paper 2 Main Results
