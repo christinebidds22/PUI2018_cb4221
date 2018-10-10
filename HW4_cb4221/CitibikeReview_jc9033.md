@@ -1,4 +1,4 @@
-	# a. Verify Null and alternative hypotheses <br>
+# a. Verify Null and alternative hypotheses <br>
 The original hypothesis is a little bit confusing. <br>
 	• Original Null hypothesis: CitiBike users born between 1980 are just as likely or more likely to use the service than those born in 1981.<br>
 	• Original Alternative hypothesis: CitiBike users born between 1981 are more likely to use the service than those born between 1980. <br>
