@@ -7,4 +7,4 @@ My plot:
 For Assignment 2, we completed our CitiBike analysis from HW4.
 
 A copy of my report on Authorea can be found here:
-https://www.authorea.com/users/249600/articles/335930-title#
+https://www.authorea.com/335930/iKF4vb3kWOABKnO8ZkZj1g
